@@ -10,7 +10,7 @@ body {
   margin: 0px;
 }
 
-button {
+img.logo {
 	position: fixed;
 	/*display: inline-block;*/
 	height: 96px;
